@@ -1,6 +1,6 @@
 # Instalando o SSH :dvd:
 
-## !!!IMPORTANTE abrir porta no modem caso não tenha aceço ligue para seu provedor de internet!!!
+### !!!IMPORTANTE abrir porta no modem caso não tenha aceço ligue para seu provedor de internet!!!
 
 ### ~$ sudo apt-get install ssh  
 Instalando ssh.
