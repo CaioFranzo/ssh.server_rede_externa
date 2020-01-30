@@ -21,10 +21,20 @@ Desmarque a opção "# port 22" no começo do arquiv, deixando apenas "port 22".
 
 ### Entre com o administrador do seu roteador o ip, login e senha padrao dele estara logo em baixo  
 
-![sshd.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho_roteador.PNG?raw=true)  
+![caminho_roteador.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho_roteador.PNG?raw=true)  
 
 Clique em adicionar novo.
 
-### preencha as seguintes informações e salve.  
+### Preencha as seguintes informações e salve.  
 
-![sshd.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho_roteador2.PNG?raw=true)
+![caminho_roteador2.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho_roteador2.PNG?raw=true)
+
+# instalando o puTTY :computer:  
+
+### Primeira mente você ira precisar do ip de sua rede, no site [meuip.com.br](https://www.meuip.com.br/).  
+
+### Após isso instale o puTTY Ou instale o Putty [Download aqui](https://www.ssh.com/ssh/putty/download).
+
+### A conexão é feita da seginte forma:  
+
+![Putty.PNG](https://github.com/CaioFranzo/Server_Samba/blob/master/putty.PNG?raw=true)
