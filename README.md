@@ -13,5 +13,6 @@ Verificar de o ssh esta ligado
 Iniciar o ssh, caso esteja desligado  
 
 ### ~$ sudo nano /etc/ssh/sshd_config
-Desmarque a opção "# port 22" no começo do arquiv, deixando apenas "port 22". Deixando assim:
+Desmarque a opção "# port 22" no começo do arquiv, deixando apenas "port 22". Deixando assim:  
+
 ![sshd.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/sshd.PNG?raw=true)
