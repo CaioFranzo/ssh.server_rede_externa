@@ -39,4 +39,4 @@ Clique em adicionar novo.
 
 ![Putty.PNG](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/putty.PNG?raw=true)
 
-### !!! Pronto, com isso você irá acessar seu servidor de todoo mudo !!!
+# Segurança total :lock:
