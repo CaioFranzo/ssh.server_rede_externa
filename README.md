@@ -21,7 +21,7 @@ Desmarque a opção "# port 22" no começo do arquiv, deixando apenas "port 22".
 
 ### Entre com o administrador do seu roteador o ip, login e senha padrao dele estara logo em baixo  
 
-![sshd.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho roteador.PNG?raw=true)  
+![sshd.config](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/caminho_roteador.PNG?raw=true)  
 
 Clique em adicionar novo.
 
