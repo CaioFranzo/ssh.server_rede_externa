@@ -37,4 +37,4 @@ Clique em adicionar novo.
 
 ### A conexão é feita da seginte forma:  
 
-![Putty.PNG](https://github.com/CaioFranzo/Server_Samba/blob/master/putty.PNG?raw=true)
+![Putty.PNG](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/putty.PNG?raw=true)
