@@ -64,7 +64,7 @@ Vamos editar o arquivo de configuração do ssh.
 Encontre as seguintes opções de deixe da sem guinte forma sem # na frente:
 ```PubkeyAuthentication yes```  
 ```AuthorizedKeysFile .ssh/id_rsa.pub```  
-```Port 22```  
-```Port 22```  
+```Port 22```    
 ```PasswordAuthentication no```
 
+### E pronto SSH configurado e seguro.
