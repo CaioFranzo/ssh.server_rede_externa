@@ -46,7 +46,7 @@ Clique em adicionar novo.
 ### ~$ cd .ssh/
 
 ### ~$ ssh-keygen
-Configure da forma que quiser.
+Configure da forma que quiser.  
 OBS:  se a chave ssh tiver senha sera mais seguro ainda.
 
 ### ~$ cat id_rsa
