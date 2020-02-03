@@ -41,23 +41,23 @@ Clique em adicionar novo.
 
 # Segurança total :lock:
 
-### cd ~
+### ~$ cd ~
 
-### cd .ssh/
+### ~$ cd .ssh/
 
-### ssh-keygen
+### ~$ ssh-keygen
 Configure da forma que quiser.
 OBS:  se a chave ssh tiver senha sera mais seguro ainda.
 
-### cat id_rsa
+### ~$ cat id_rsa
 Copie a chave e cole em C:\Users\Nome_Windows\.ssh\id_rsa
 
-### cat id_rsa.pub
+### ~$ cat id_rsa.pub
 Copie a chave e cole em C:\Users\Nome_Windows\.ssh\id_rsa.pub
 
-### cd /etc/ssh/
+### ~$ cd /etc/ssh/
 
-### sudo nano sshd_config
+### ~$ sudo nano sshd_config
 
 Vamos editar o arquivo de configuração do ssh.
 
