@@ -40,3 +40,31 @@ Clique em adicionar novo.
 ![Putty.PNG](https://github.com/CaioFranzo/ssh.server_rede_externa/blob/master/putty.PNG?raw=true)
 
 # Segurança total :lock:
+
+### cd ~
+
+### cd .ssh/
+
+### ssh-keygen
+Configure da forma que quiser.
+OBS:  se a chave ssh tiver senha sera mais seguro ainda.
+
+### cat id_rsa
+Copie a chave e cole em C:\Users\Nome_Windows\.ssh\id_rsa
+
+### cat id_rsa.pub
+Copie a chave e cole em C:\Users\Nome_Windows\.ssh\id_rsa.pub
+
+### cd /etc/ssh/
+
+### sudo nano sshd_config
+
+Vamos editar o arquivo de configuração do ssh.
+
+Encontre as seguintes opções de deixe da sem guinte forma sem # na frente:
+```PubkeyAuthentication yes```  
+```AuthorizedKeysFile .ssh/id_rsa.pub```  
+```Port 22```  
+```Port 22```  
+```PasswordAuthentication no```
+
