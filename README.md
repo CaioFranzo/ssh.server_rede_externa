@@ -61,7 +61,7 @@ Copie a chave e cole em C:\Users\Nome_Windows\.ssh\id_rsa.pub
 
 Vamos editar o arquivo de configuração do ssh.
 
-Encontre as seguintes opções de deixe da sem guinte forma sem # na frente:
+Encontre as seguintes opções de deixe da sem guinte forma sem # na frente:  
 ```PubkeyAuthentication yes```  
 ```AuthorizedKeysFile .ssh/id_rsa.pub```  
 ```Port 22```    
